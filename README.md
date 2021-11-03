@@ -1,1 +1,1 @@
-# chrome-extentions
+# chrome-extensions
